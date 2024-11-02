@@ -1,4 +1,4 @@
- ![Banner] https://in.pinterest.com/pin/going-dark-call-of-duty-gif-find-share-on-giphy--509329039122088034/
+ ![Banner] (https://in.pinterest.com/pin/going-dark-call-of-duty-gif-find-share-on-giphy--509329039122088034/)
 
 
 # 💫 About Me:
