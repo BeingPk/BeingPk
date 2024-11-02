@@ -1,3 +1,7 @@
+ ![Banner] (https://camo.githubusercontent.com/531f24d5cc2dfa4455ec84d229e5e1e32ba8b043eaa9feebc1f17e03cb070ad0/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e4870736548686c63546c735957317464485933616a46704d57773165586c76636d356f646a417962336469643239364d4846704f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f66776f4f6f445a70457064516577516452522f67697068792e676966)
+
+
+
 # 💫 About Me:
 👉 Currently expanding my knowledge in Bug Hunting and Malware Forensics, sharpening my skills to identify vulnerabilities and analyze malicious code.<br><br>👉 Developing custom tools for personal use and the wider cybersecurity community, aiming to simplify and automate various tasks in security testing<br><br>👉 Exploring new domains like Mobile Application Penetration Testing and the emerging field of Web3 Security, focusing on safeguarding decentralized applications<br><br>👉Engaged in continuous learning and hands-on practice to reach my ultimate goal of becoming a Cybersecurity Specialist, with a commitment to securing digital environments and protecting critical assets<br><br>👉Interested in blogging to share insights, tutorials, and experiences within the cybersecurity field, and I plan to start publishing content in the future.
 
