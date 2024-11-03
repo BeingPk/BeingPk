@@ -1,7 +1,6 @@
 
 ![gitbannner](https://github.com/user-attachments/assets/8066d098-09ec-4595-aeff-48713d08f5f4)
 
-
 # 💫 About Me:
 👉 Currently expanding my knowledge in Bug Hunting and Malware Forensics, sharpening my skills to identify vulnerabilities and analyze malicious code.<br><br>👉 Developing custom tools for personal use and the wider cybersecurity community, aiming to simplify and automate various tasks in security testing<br><br>👉 Exploring new domains like Mobile Application Penetration Testing and the emerging field of Web3 Security, focusing on safeguarding decentralized applications<br><br>👉Engaged in continuous learning and hands-on practice to reach my ultimate goal of becoming a Cybersecurity Specialist, with a commitment to securing digital environments and protecting critical assets<br><br>👉Interested in blogging to share insights, tutorials, and experiences within the cybersecurity field, and I plan to start publishing content in the future.
 
