@@ -94,7 +94,7 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeingPk&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/BeingPk/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=BeingPk&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/BeingPk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeingPk&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
