@@ -91,7 +91,7 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="44%" src="https://github.com/user-attachments/assets/50b53c75-e54b-40e9-b4f4-db18135001bf"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeingPk&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/BeingPk/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Beingpk)](https://git.io/streak-stats) 
