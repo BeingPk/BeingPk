@@ -40,9 +40,7 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 
 <img width="25%" align='right' src="https://media.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif">
 
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
+👉 Still Learning Penetration testing & Bug hunting .
 
 👉 Writing Some Useful Tools For Myself & Communities
 
@@ -50,7 +48,9 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 
 👉 Currently Learning mobile pentesting & web3 
 
-`Updating:`  Journey to Cybersecurity Specialist.
+👉 Interested  In cloud Domain
+
+`Updating:`  Journey to Penetration expert.
 
 ---
 
