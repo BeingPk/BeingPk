@@ -50,7 +50,7 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 
 👉 Interested  In cloud Domain
 
-`Updating:`  Journey to Penetration expert.
+`Updating:`  Journey to Penetration  Tester expert.
 
 ---
 
