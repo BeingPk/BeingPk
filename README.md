@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=A+Mission+to+Secure+Cyber_Domain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=A+Mission+to+Secure+Cyber+Domain" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**, an Ethical  hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
@@ -91,7 +91,6 @@ I'm **[`prabin pradeep`](https://in.linkedin.com/in/prabin-pradeep-802b0831a)**,
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://github.com/user-attachments/assets/50b53c75-e54b-40e9-b4f4-db18135001bf"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeingPk&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/BeingPk/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Beingpk)](https://git.io/streak-stats) 
